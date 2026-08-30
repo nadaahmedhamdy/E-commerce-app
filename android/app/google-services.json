@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779198709109",
+    "project_id": "cloth-app-6ce38",
+    "storage_bucket": "cloth-app-6ce38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779198709109:android:f679f7018d8035c10ea73c",
+        "android_client_info": {
+          "package_name": "com.example.iti_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779198709109-5qldu9o8idjjeol9s793c4nsnbfrud9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVwTG2F1-rP06Mgom0K1acJXTieD6fO7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779198709109-5qldu9o8idjjeol9s793c4nsnbfrud9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
